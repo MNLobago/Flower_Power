@@ -26,6 +26,10 @@ The `train.py` script facilitates the training of the custom model. It includes 
 
 The `predict.py` script allows for making predictions using a trained model checkpoint. It includes functions to load a pre-trained model, process an input image, and output predictions with associated probabilities.
 
+### 6. `Image Classifier Project.ipynb`
+
+The `Image Classifier Project.ipynb` notebook is part of the project workflow and contains detailed code and explanations. This notebook cover aspects such as data Loading, model analysis, and visualization of results. Use this notebook for an interactive exploration of the image classification project.
+
 ## Usage
 
 To train the model and make predictions, follow these steps:
